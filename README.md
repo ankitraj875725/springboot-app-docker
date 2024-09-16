@@ -21,8 +21,8 @@ Step 3- Install Docker on ubuntu machine
 **Verify docker installation**
 **sudo docker --version**
 
-Step 4- Pull application project from github to local  machine(Ubuntu)
-**git pull giturl**
+Step 4- now clne  application project from github to local  machine(Ubuntu)
+**git clone giturl**
 
 step 5- Build docker images
 **sudo docker build -t imagename .**
